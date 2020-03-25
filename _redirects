@@ -1,2 +1,3 @@
 https://mtfarkas.netlify.com/* https://mtfarkas.com/:splat 301!
 /scaffold/* https://auto-scaffold.netlify.com/:splat 200!
+/multi-twitch/* https://multi-twitch.netlify.com/:splat 200!
